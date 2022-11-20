@@ -1,3 +1,15 @@
-this is a init 
+## Algorithm
 
-![test](../../images/test.png)
+![test](../../images/ming-2022-11-20-lc.png)
+
+## Review
+
+
+
+## Tip
+
+
+
+## Share
+
+
