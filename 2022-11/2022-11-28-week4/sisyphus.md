@@ -25,8 +25,10 @@ class Solution {
 > * 当前数范围1~n, 所有出现过的数+len，遍历第二次如果数小于等于len，则该数未出现
 > * 计算下标需要(n-1) % len
 ## Review
-
-
+[java ADT](http://web.mit.edu/6.031/www/sp21/classes/12-interfaces-generics-enums/)
+java虚拟数据类型
+* 集合
+* 迭代器
 ## Tip
 
 ### 甘特图
