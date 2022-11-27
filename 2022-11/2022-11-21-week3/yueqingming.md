@@ -9,7 +9,10 @@
 
 ## Tip
 
+[Arthas vmtool 命令](https://arthas.aliyun.com/doc/vmtool.html)
 
+在 Java 应用程序运行时，可以快捷的获取 JVM 中的内存对象，并使用对象执行动作。
 
 ## Share
 
+[Tomcat 整体架构](https://www.notion.so/Tomcat-1-76cbf48dd4484f8197a4e7c1ad4c4d7f)
