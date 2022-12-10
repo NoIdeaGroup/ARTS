@@ -1,6 +1,6 @@
 # Algorithm
 
-![1796. 字符串中第二大的数字](../../images/zhenran-2022-12-10-lc.png)
+![1691. 堆叠长方体的最大高度](../../images/zhenran-2022-12-10-lc.png)
 
 # Review
 
