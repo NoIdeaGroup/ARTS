@@ -13,9 +13,9 @@ Expose service by ingress and ingress controller in Kubernetes.
 
 Nginx ingress controller expose other services by its NodePort type Service, but the nginx ingress controller doesn't set default ingress class, it can be done by setting default ingress class in Ingress Object definition or IngressClass Object definition.
 
-![Ingress Controller](../../images/zhenran-2022-12-17-ingress-controller-service.png)
+![Ingress Controller](../../images/important/zhenran-2022-12-17-ingress-controller-service.png)
 
-![Service Ingress Class](../../images/zhenran-2022-12-17-service-ingress-class.png)
+![Service Ingress Class](../../images/important/zhenran-2022-12-17-service-ingress-class.png)
 
 
 # Share
