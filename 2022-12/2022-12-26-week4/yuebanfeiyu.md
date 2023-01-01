@@ -1,6 +1,6 @@
 # Algorithm
 
-![image-20221231232027050](/Users/zhouyunpeng/Desktop/myblog/themes/tree/source/images/image-20221231232027050.png)
+![](https://img-blog.csdnimg.cn/e8da622069824931ab2100f571c8281e.png)
 
 > 解题思路：快慢指针+链表反转
 
