@@ -1,6 +1,6 @@
 # Algorithm
 
-![1798. 你能构造出连续值的最大数目](../../images/zhenran-2023-02-04-lc.png)
+![1798. 你能构造出连续值的最大数目](../../../images/zhenran-2023-02-04-lc.png)
 
 # Review
 

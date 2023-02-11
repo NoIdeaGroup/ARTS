@@ -1,6 +1,6 @@
 ## Algorithm
 
-![code](./../../images/temp/haha-20230205.png)
+![code](../../../images/temp/haha-20230205.png)
 
 ## Review
 

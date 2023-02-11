@@ -1,5 +1,5 @@
 ## Algorithm
-![算法](../../images/temp/sisyphus-2023-01-14-lc.png)
+![算法](../../../images/temp/sisyphus-2023-01-14-lc.png)
 * 第一个循环从位置开始
 * 第二个循环子数组
 ## Review
