@@ -1,5 +1,5 @@
 ## Algorithm
-![算法](../../images/temp/sisyphus-2023-02-04-lc.png)
+![算法](../../../images/temp/sisyphus-2023-02-04-lc.png)
 * group by
 ## Review
 [bash guide] (https://github.com/Idnan/bash-guide)

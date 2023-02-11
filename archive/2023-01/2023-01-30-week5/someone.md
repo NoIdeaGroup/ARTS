@@ -1,6 +1,6 @@
 ## Algorithm
 
-![](../../images/temp/someone-2023-02-05.png)
+![](../../../images/temp/someone-2023-02-05.png)
 
 # Review
 
