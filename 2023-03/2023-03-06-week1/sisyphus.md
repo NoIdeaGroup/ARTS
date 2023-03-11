@@ -1,21 +1,24 @@
 ## Algorithm
 
-每周至少做一个 Leetcode 的算法题。主要是为了编程训练和学习。如果不训练你看再多的算法书，你依然不会做算法题。
-
-> 打卡形式 LeetCode 提交成功截图
-
+![算法](../../images/temp/sisyphus-2023-03-11-lc.png)
 ## Review
 
-阅读并点评至少一篇英文技术文章。主要是为了学习英文，如果你的英文不行，你基本上无缘技术高手； Medium（需要梯子）以及各个公司的技术 blog，如 Netflix 的。
-
-> 打卡形式：文章链接 + 评论
+[ddd cqrs](https://medium.com/design-microservices-architecture-with-patterns/cqrs-design-pattern-in-microservices-architectures-5d41e359768c
+)
 
 ## Tip
+map struct转换支持枚举.操作
+```java
+@Mappings({
+            @Mapping(source = "id", target = "userId"),
+            @Mapping(source = "name", target = "userName")
+    })
+指定别名
 
-学习至少一个技术技巧。主要是为了总结和归纳你在日常工作中所遇到的知识点。
-
-> 打卡形式：文档
+@Mapping(target = "description", source = "person.description")
+@Mapping(target = "houseNumber", source = "address.houseNo")
+DeliveryAddressDto personAndAddressToDeliveryAddressDto(Person person, Address address);
+制定方法
+```
 
 ## Share
-
-分享一篇有观点和思考的技术文章。主要是为了建立你的影响力，能够输出价值观。
