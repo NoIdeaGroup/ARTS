@@ -1,5 +1,5 @@
 ## Algorithm
-![yueqingming-2023-03-05-lc](../../images/temp/yueqingming-2023-03-05-lc.png)
+![yueqingming-2023-03-05-lc](../../../images/temp/yueqingming-2023-03-05-lc.png)
 
 
 # Review

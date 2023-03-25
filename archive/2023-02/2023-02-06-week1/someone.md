@@ -1,6 +1,6 @@
 ## Algorithm
 
-![fengpu-2022-02-12-lc.png](../../images/temp/fengpu-2022-02-12-lc.png)
+![fengpu-2022-02-12-lc.png](../../../images/temp/fengpu-2022-02-12-lc.png)
 
 # Review
 
