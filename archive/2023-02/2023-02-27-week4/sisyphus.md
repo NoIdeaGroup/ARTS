@@ -1,5 +1,5 @@
 ## Algorithm
-![算法](../../images/temp/sisyphus-2023-03-05-lc.png)
+![算法](../../../images/temp/sisyphus-2023-03-05-lc.png)
 * 数组加法
 ## Review
 [mysql 主备介绍](https://hevodata.com/learn/mysql-master-slave-replication/)

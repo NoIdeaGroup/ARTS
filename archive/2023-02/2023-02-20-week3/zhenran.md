@@ -1,6 +1,6 @@
 # Algorithm
 
-![889. 根据前序和后序遍历构造二叉树](../../images/temp/zhenran-2023-02-25-lc.png)
+![889. 根据前序和后序遍历构造二叉树](../../../images/temp/zhenran-2023-02-25-lc.png)
 
 # Review
 

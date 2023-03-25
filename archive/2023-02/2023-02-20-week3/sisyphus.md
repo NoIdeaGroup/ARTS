@@ -1,5 +1,5 @@
 ## Algorithm
-![算法](../../images/temp/sisyphus-2023-02-26-lc.png)
+![算法](../../../images/temp/sisyphus-2023-02-26-lc.png)
 * 减一相与
 ## Review
 [Apache ranger](https://docs.cloudera.com/runtime/7.2.10/security-ranger-authorization/topics/security-ranger-provide-authorization-cdp.html)

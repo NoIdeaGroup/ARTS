@@ -1,5 +1,5 @@
 ## Algorithm
-![算法](../../images/temp/sisyphus-2023-02-11-lc.png)
+![算法](../../../images/temp/sisyphus-2023-02-11-lc.png)
 * 模拟解法
 * 情况1: (maxTasks-1) * (n + 1) + total
 * total 任务数为max的个数

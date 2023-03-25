@@ -1,6 +1,6 @@
 # Algorithm
 
-![982. 按位与为零的三元组](../../images/temp/zhenran-2023-03-04-lc.png)
+![982. 按位与为零的三元组](../../../images/temp/zhenran-2023-03-04-lc.png)
 
 # Review
 

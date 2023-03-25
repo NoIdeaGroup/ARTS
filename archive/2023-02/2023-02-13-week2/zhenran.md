@@ -1,6 +1,6 @@
 # Algorithm
 
-![863. 二叉树中所有距离为 K 的结点](../../images/temp/zhenran-2023-02-18-lc.png)
+![863. 二叉树中所有距离为 K 的结点](../../../images/temp/zhenran-2023-02-18-lc.png)
 
 # Review
 

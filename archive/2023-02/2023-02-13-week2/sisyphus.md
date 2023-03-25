@@ -1,5 +1,5 @@
 ## Algorithm
-![算法](../../images/temp/sisyphus-2023-02-11-lc.png)
+![算法](../../../images/temp/sisyphus-2023-02-11-lc.png)
 * 优先队列 new PriorityQueue<>((o1,o2) -> o2-o1);
 ## Review
 [cdp flink 1.8.0](https://docs.cloudera.com/csa/1.8.0/ssb-overview/topics/csa-ssb-key-features.html)

@@ -1,6 +1,6 @@
 # Algorithm
 
-![2335. 装满杯子需要的最短总时长](../../images/temp/zhenran-2023-02-11-lc.png)
+![2335. 装满杯子需要的最短总时长](../../../images/temp/zhenran-2023-02-11-lc.png)
 
 # Review
 
