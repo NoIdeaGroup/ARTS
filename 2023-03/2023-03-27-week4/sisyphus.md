@@ -1,21 +1,21 @@
 ## Algorithm
 
-每周至少做一个 Leetcode 的算法题。主要是为了编程训练和学习。如果不训练你看再多的算法书，你依然不会做算法题。
+![算法](../../images/temp/sisyphus-2023-04-02-lc.png)
 
-> 打卡形式 LeetCode 提交成功截图
+* l = 0 r = length -1 
+* target <= nums[i] r = mid - 1;
+* l = mid + 1
 
 ## Review
 
-阅读并点评至少一篇英文技术文章。主要是为了学习英文，如果你的英文不行，你基本上无缘技术高手； Medium（需要梯子）以及各个公司的技术 blog，如 Netflix 的。
+[设计模式优化if](https://medium.com/aia-sg-techblog/refactor-if-elseif-elseif-using-strategy-design-pattern-80c51913a539)
 
-> 打卡形式：文章链接 + 评论
+* 上下文持有Strategy
+* 上下文方法调用Strategy方法
 
 ## Tip
 
-学习至少一个技术技巧。主要是为了总结和归纳你在日常工作中所遇到的知识点。
-
-> 打卡形式：文档
-
 ## Share
 
-分享一篇有观点和思考的技术文章。主要是为了建立你的影响力，能够输出价值观。
+[重构技巧](https://bbs.huaweicloud.com/blogs/350056)
+进行重构分类
