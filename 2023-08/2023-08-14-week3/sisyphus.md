@@ -8,3 +8,5 @@
 
 
 ## Share
+
+k8s config map
