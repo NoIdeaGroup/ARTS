@@ -1,6 +1,6 @@
 ## Algorithm
 
-![算法](../../images/temp/sisyphus-2023-07-30-lc.png)
+![算法](../../images/temp/sisyphus-2023-08-13-lc.png)
 
 
 ## Review
