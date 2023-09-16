@@ -1,6 +1,6 @@
 ## Algorithm
 
-![算法](../../images/temp/sisyphus-2023-07-30-lc.png)
+![算法](../../../images/temp/sisyphus-2023-07-30-lc.png)
 * mysql 8.0 开窗函数，over pration by 
 
 ## Review
