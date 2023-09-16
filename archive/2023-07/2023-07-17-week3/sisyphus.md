@@ -1,6 +1,6 @@
 ## Algorithm
 
-![算法](../../images/temp/sisyphus-2023-07-22-lc.png)
+![算法](../../../images/temp/sisyphus-2023-07-22-lc.png)
 * 简单mysql查询
 
 ## Review
