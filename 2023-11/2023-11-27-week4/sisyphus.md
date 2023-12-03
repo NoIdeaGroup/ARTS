@@ -39,6 +39,8 @@ for() {
     k *= nums[i-1]
 }
 ```
+![算法](../../images/temp/sisyphus-2023-12-03-lc.png)
+
 ## Review
 
 [nginx 入门](https://nginx.org/en/docs/beginners_guide.html)
