@@ -1,7 +1,7 @@
 ## Algorithm
 
 
-![算法](../../images/temp/sisyphus-2023-12-17-lc.png)
+![算法](../../images/temp/sisyphus-2023-12-23-lc.png)
 快慢指针
 
 ## Review
