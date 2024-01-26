@@ -5,7 +5,7 @@
 * 数据结构：LinkedHashMap，Hash查找，Map删除
 * makeRecently，int val = cache.get(key);,cache.removeKey, cache.put(key, val)
 
-![算法](../../images/temp/sisyphus-2024-01-19-lc.png)
+![算法](../../images/temp/sisyphus-2024-01-26-lc.png)
 
 ### day02
 二叉树中序遍历
@@ -18,10 +18,11 @@
 
 ## Review
 
-[k8s 架构](https://awstip.com/kubernetes-architecture-43d909850cbd)
+[design pattern](https://medium.com/javarevisited/10-reasons-to-learn-system-design-in-2024-fa795d301f62)
 
 
 ## Tip
 
+LRU缓存通过LinkedHashMap实现
 
 ## Share
