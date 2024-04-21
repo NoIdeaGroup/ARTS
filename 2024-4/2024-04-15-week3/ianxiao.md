@@ -1,12 +1,12 @@
 ## Algorithm
 
-![ianxiao-2024-04-14-lc.png](../../images/temp/ianxiao-2024-04-14-lc.png)
+![ianxiao-2024-04-21-lc.png](../../images/temp/ianxiao-2024-04-21-lc.png)
 
 # Review
 
-[MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+[Llama中文社区](https://github.com/LlamaFamily/Llama-Chinese)
 
-只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频。
+是一个专注于Llama模型在中文方面的优化和上层建设的高级技术社区。已经基于大规模中文数据，从预训练开始对Llama2模型进行中文能力的持续迭代升级。正在对Llama3模型进行中文能力的持续迭代升级。
 
 # Tips
 
