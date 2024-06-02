@@ -1,13 +1,11 @@
 ## Algorithm
 
-![算法](../../images/temp/sisyphus-2024-05-26-lc.png)
+![算法](../../images/temp/sisyphus-2024-06-02-lc.png)
 
-* 当天最大收益等于 当天价值 减去 n-1的最小值
-
+* fi 代表爬到i阶楼梯方法，result = fi-1，fi-2。当前只能从i-1，i-2走上来
 ## Review
 
-[设计原则](https://levelup.gitconnected.com/the-20-essential-principles-of-software-development-lod-soc-solid-and-beyond-7a39a98b685d)
-
+[代码检视](https://www.codegrip.tech/productivity/best-practices-for-reviewing-code/?ref=dailydev)
 
 
 ## Tip
