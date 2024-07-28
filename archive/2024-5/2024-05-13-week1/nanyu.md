@@ -1,6 +1,6 @@
 ## Algorithm
 
-![leetcode](../../images/temp/nanyu-2024-05-13-lc.png)
+![leetcode](../../../images/temp/nanyu-2024-05-13-lc.png)
 
 ## Review
 

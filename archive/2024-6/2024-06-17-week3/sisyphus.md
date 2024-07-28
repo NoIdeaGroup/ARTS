@@ -1,6 +1,6 @@
 ## Algorithm
 
-![算法](../../images/temp/sisyphus-2024-06-23-lc.png)
+![算法](../../../images/temp/sisyphus-2024-06-23-lc.png)
 - 模拟题
 - 先定义变量
 

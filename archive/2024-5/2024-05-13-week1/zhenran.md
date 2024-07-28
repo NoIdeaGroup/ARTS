@@ -1,6 +1,6 @@
 # Algorithm
 
-![](../../images/temp/zhenran-2024-05-19-lc.png)
+![](../../../images/temp/zhenran-2024-05-19-lc.png)
 
 # Review
 

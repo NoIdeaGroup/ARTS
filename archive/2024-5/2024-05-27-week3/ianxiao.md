@@ -1,6 +1,6 @@
 ## Algorithm
 
-![ianxiao-2024-06-02-lc.png](../../images/temp/ianxiao-2024-06-02-lc.png)
+![ianxiao-2024-06-02-lc.png](../../../images/temp/ianxiao-2024-06-02-lc.png)
 
 # Review
 

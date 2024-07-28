@@ -1,6 +1,6 @@
 # Algorithm
 
-![算法](../../images/temp/ricardoyu-2024-06-02-lc.png "算法")
+![算法](../../../images/temp/ricardoyu-2024-06-02-lc.png "算法")
 
 # Review
 

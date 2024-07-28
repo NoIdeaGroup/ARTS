@@ -1,6 +1,6 @@
 ## Algorithm
 
-![算法](../../images/temp/sisyphus-2024-06-30-lc.png)
+![算法](../../../images/temp/sisyphus-2024-06-30-lc.png)
 - 异或
 - 交换律
 - 1^1 = 0
