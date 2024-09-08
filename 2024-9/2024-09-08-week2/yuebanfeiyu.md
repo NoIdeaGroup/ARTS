@@ -1,6 +1,6 @@
 # Algorithm
 
-![在这里插入图片描述](../myblog/themes/tree/source/images/c0cd7f6e9ac443f984a9c832847b535b.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/28607bd0390c428d854e43df96b8ed29.png)
 
 # Review
 
