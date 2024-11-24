@@ -1,8 +1,8 @@
 ## Algorithm
-![fengpupu-2023-12-24-lc](../../images/temp/fengpu-2024-10-27-lc.png)
+![fengpupu-2023-12-24-lc](../../images/temp/fengpu-2024-11-03-lc.png)
 
 # Review
-[Stop using if-else statements in Java)](https://medium.com/javarevisited/stop-using-if-else-statements-in-java-57234e13bf9d)
+[My Google Interview Experience.)](https://medium.com/@harshaag99/my-google-interview-experience-5f8ce7b3aa02)
 
 # Tips
 

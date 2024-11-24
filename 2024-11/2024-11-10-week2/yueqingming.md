@@ -1,8 +1,8 @@
 ## Algorithm
-![yueqingming-2023-08-13-lc](../../images/temp/yueqingming-2024-11-03-lc.jpg)
+![yueqingming-2023-08-13-lc](../../images/temp/yueqingming-2024-11-10-lc.jpg)
 
 # Review
-[Make the Switch from Software Engineer to ML Engineer](https://medium.com/towards-data-science/make-the-switch-from-software-engineer-to-ml-engineer-7a4948730c97)
+[I Wrote On LinkedIn for 100 Days. Now I Never Worry About Finding a Job.](https://medium.com/@realalexnguyen/i-wrote-on-linkedin-for-100-days-now-i-never-have-to-worry-about-finding-a-job-bf785d00341c)
 
 
 # Tips
